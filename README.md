@@ -14,21 +14,21 @@ The easiest way to create a <a href="https://facebook.github.io/react">React</a>
 <p align="center">
     <em>
       <a href="#getting-started">Getting Started</a>
-      · <a href="https://github.com/segmentio/create-next-app/blob/master/lib/templates/default/README.md">Starting from scratch with Create Next App</a>
+      · <a href="https://github.com/dyhpoon/create-dyhpoon-app/blob/master/lib/templates/default/README.md">Starting from scratch with Create Next App</a>
       · <a href="#starting-from-nextjs-examples">Starting from Next.js Examples</a>
     </em>
 </p>
 
 <p align="center">
-If you run into any issues or have feedback, please <a href="https://github.com/segmentio/create-next-app/issues/new">file an issue</a>
+If you run into any issues or have feedback, please <a href="https://github.com/dyhpoon/create-dyhpoon-app/issues/new">file an issue</a>
 </p>
 
 ## Overview
 
 |     | [npx](https://github.com/zkat/npx) & npm (Node 8.x.x+) | [yarn create](https://yarnpkg.com/en/docs/cli/create) (Yarn 1.0.0+) | manual install (Node 6.x.x+)     |
 | --- | ------------------------------------------------------ | ------------------------------------------------------------------- | -------------------------------- |
-| 1.  | `npx create-next-app my-app`                           | `yarn create next-app my-app`                                       | `npm install -g create-next-app` |
-| 2.  | `cd my-app/`                                           | `cd my-app/`                                                        | `create-next-app my-app`         |
+| 1.  | `npx create-dyhpoon-app my-app`                           | `yarn create next-app my-app`                                       | `npm install -g create-dyhpoon-app` |
+| 2.  | `cd my-app/`                                           | `cd my-app/`                                                        | `create-dyhpoon-app my-app`         |
 | 3.  | `npm run dev`                                          | `yarn dev`                                                          | `cd my-app/`                     |
 | 4.  |                                                        |                                                                     | `npm run dev`                    |
 
@@ -48,7 +48,7 @@ When you're ready for production, run the `build` then `start` scripts.
 You **don't** need to install or setup Webpack or Babel.
 They come packaged with `next`, so you can just start coding.
 
-After running `create-next-app`, you're good to go!
+After running `create-dyhpoon-app`, you're good to go!
 
 ## Getting Started
 
@@ -64,7 +64,7 @@ Minimum Requirements:
 
 ### What's in an App
 
-`create-next-app` will have created a directory called `my-app` inside the current folder. Inside that directory, it will generate the initial project structure and install necessary dependencies:
+`create-dyhpoon-app` will have created a directory called `my-app` inside the current folder. Inside that directory, it will generate the initial project structure and install necessary dependencies:
 
 ```
 .
@@ -124,9 +124,9 @@ There are a ton of examples in the [Next.js repo](https://github.com/zeit/next.j
 
 To use an example:
 
-1.  Go to https://open.segment.com/create-next-app#examples
+1.  Go to https://open.segment.com/create-dyhpoon-app#examples
 2.  Search for an example you want and get it's name (looks like `basic-css`)
-3.  Run: `create-next-app --example basic-css example-app`
+3.  Run: `create-dyhpoon-app --example basic-css example-app`
 4.  Done 💥
 
 **It is worth noting that the _basic-css_ example above uses [styled-jsx](https://github.com/zeit/styled-jsx).**
@@ -159,7 +159,7 @@ Looking for alternatives? Here are some other project starter kits:
 - [tarec](https://github.com/geowarin/tarec)
 - [sku](https://github.com/seek-oss/sku)
 
-Questions? Feedback? [Please let us know](https://github.com/segmentio/create-next-app/issues/new)
+Questions? Feedback? [Please let us know](https://github.com/dyhpoon/create-dyhpoon-app/issues/new)
 
 ## License (MIT)
 

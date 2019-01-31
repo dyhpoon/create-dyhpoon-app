@@ -36,7 +36,7 @@ Tell us what actually happens.
 
 Run these commands in the project folder and fill in their results:
 
-1.  `create-next-app --version`:
+1.  `create-dyhpoon-app --version`:
 2.  `node --version`:
 3.  `npm --version`:
 

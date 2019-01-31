@@ -1,5 +1,5 @@
 {
-  "name": "create-next-app",
+  "name": "create-dyhpoon-app",
   "description": "Create Next.js apps in one command",
   "version": "0.5.9",
   "main": "index.js",
@@ -11,14 +11,14 @@
     "precommit": "lint-staged"
   },
   "bin": {
-    "create-next-app": "./cli.js"
+    "create-dyhpoon-app": "./cli.js"
   },
   "engines": {
     "node": ">=4"
   },
-  "repository": "segmentio/create-next-app",
+  "repository": "dyhpoon/create-dyhpoon-app",
   "bugs": {
-    "url": "https://github.com/segmentio/create-next-app/issues"
+    "url": "https://github.com/dyhpoon/create-dyhpoon-app/issues"
   },
   "dependencies": {
     "@octokit/rest": "^15.9.4",
@@ -39,7 +39,7 @@
     "next",
     "react",
     "next.js",
-    "create-next-app",
+    "create-dyhpoon-app",
     "create-react-app",
     "boilerplate"
   ],
